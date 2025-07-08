@@ -1,6 +1,5 @@
 package Quantum_Bookstore;
 
-//Book.java
 public  class Book {
  protected String isbn;
  protected String title;
