@@ -33,5 +33,4 @@ Quantum Bookstore is a simple Java-based system that simulates an online booksto
 - **Encapsulation**: Book-specific behavior is encapsulated in their respective classes.
 - **Extensibility**: New book types can be added without modifying existing logic.
 
-## Project Structure
 
